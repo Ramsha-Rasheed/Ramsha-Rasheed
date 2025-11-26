@@ -27,6 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramsha-Rasheedshow_icons=truelocale=enlayout=compact" alt="Ramsha-Rasheed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramsha-Rasheedshow_icons=truelocale=en" alt="Ramsha-Rasheed" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramsha-Rasheed" alt="Ramsha-Rasheed" /></p>
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
