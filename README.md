@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rasheedahmed.ra99@gmail.com**
 
-- ⚡ Fun fact **I,m Good at closing website desing**
+- ⚡ Fun fact **I,m Good at coding website desing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramsha-rasheed&show_icons=true&locale=en" alt="ramsha-rasheed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsha-rasheed&" alt="ramsha-rasheed" /></p>
-
+ <img src="https://harshcool.hashnode.dev/adding-snake-eating-contribution-on-github" />
